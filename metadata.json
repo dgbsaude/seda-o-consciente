@@ -1,0 +1,6 @@
+{
+  "name": "Sedação Consciente - Habilitação Odontológica",
+  "description": "Curso de Habilitação em Sedação Consciente com Óxido Nitroso em Santa Maria - RS. Certificado FACOP reconhecido pelo MEC com prática clínica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
